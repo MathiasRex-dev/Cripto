@@ -4,12 +4,13 @@ File: crypto.py
 ---------------
 Assignment 1: Cryptography
 Course: CS 41
-Name: <YOUR NAME>
-SUNet: <SUNet ID>
+Name: Matyi 
 
 Replace this with a description of the program.
 """
 import utils
+import random
+import math 
 
 # Caesar Cipher
 
@@ -18,16 +19,37 @@ def encrypt_caesar(plaintext):
 
     Add more implementation details here.
     """
-    raise NotImplementedError  # Your implementation here
+    ciphertext = ""
 
+    for c in plaintext:
+        if c.isalpha():
+            if c.islower():
+                new_chr = chr((ord(c) - ord('a') + 4) % 26 + ord('a'))
+                ciphertext += new_chr
+            else:
+                new_chr = chr((ord(c) - ord('A') + 4) % 26 + ord('A'))
+                ciphertext += new_chr
+        else:
+            ciphertext += c
+    return ciphertext
 
 def decrypt_caesar(ciphertext):
     """Decrypt a ciphertext using a Caesar cipher.
 
     Add more implementation details here.
     """
-    raise NotImplementedError  # Your implementation here
+    plaintext = ""
 
+    for c in ciphertext:
+        if c.isalpha():
+            if c.islower():
+                plaintext += chr((ord(c) - ord('a') - 4) % 26 + ord('a'))
+            else:
+                plaintext += chr((ord(c) - ord('A') - 4) % 26 + ord('A'))
+        else:
+            plaintext += c
+
+    return plaintext
 
 # Vigenere Cipher
 
@@ -36,7 +58,25 @@ def encrypt_vigenere(plaintext, keyword):
 
     Add more implementation details here.
     """
-    raise NotImplementedError  # Your implementation here
+    ciphertext = ""
+    key_index = 0
+
+    for c in plaintext:
+        if c.isalpha():
+            if c.islower():
+                key_char = keyword[key_index % len(keyword)]
+                shift = ord(key_char.lower()) - ord('a')
+                ciphertext += chr((ord(c) - ord('a') + shift) % 26 + ord('a'))
+                key_index += 1 
+            else:
+                key_char = keyword[key_index % len(keyword)]
+                shift = ord(key_char.upper()) - ord('A')
+                ciphertext += chr((ord(c) - ord('A') + shift) % 26 + ord('A'))
+                key_index += 1
+        else:
+            ciphertext += c 
+
+    return ciphertext
 
 
 def decrypt_vigenere(ciphertext, keyword):
@@ -44,7 +84,26 @@ def decrypt_vigenere(ciphertext, keyword):
 
     Add more implementation details here.
     """
-    raise NotImplementedError  # Your implementation here
+
+    plaintext = ""
+    key_index = 0
+
+    for c in ciphertext:
+        if c.isalpha():
+            if c.islower():
+                key_char = keyword[key_index % len(keyword)]
+                shift = ord(key_char.lower()) - ord('a')
+                plaintext += chr((ord(c) - ord('a') - shift) % 26 + ord('a'))
+                key_index += 1 
+            else:
+                key_char = keyword[key_index % len(keyword)]
+                shift = ord(key_char.upper()) - ord('A')
+                plaintext += chr((ord(c) - ord('A') - shift) % 26 + ord('A'))
+                key_index += 1
+        else:
+            plaintext += c 
+
+    return plaintext
 
 
 # Merkle-Hellman Knapsack Cryptosystem
@@ -69,7 +128,22 @@ def generate_private_key(n=8):
 
     @return 3-tuple `(w, q, r)`, with `w` a n-tuple, and q and r ints.
     """
-    raise NotImplementedError  # Your implementation here
+    w = []
+    w.append(random.randint(2, 10))
+    total = w[0]
+    for i in range(1,n - 1):
+        w.append(random(total + 1, 2 * total))
+        total += w[i]
+    
+    q = random.randint(total + 1, 2 * total)
+    r = 2
+    while True:
+        r = random.randint(2, q - 1)
+        if math.gcd(r, q):
+            break 
+    
+    return (w, q, r)
+
 
 def create_public_key(private_key):
     """Create a public key corresponding to the given private key.
@@ -85,7 +159,9 @@ def create_public_key(private_key):
 
     @return n-tuple public key
     """
-    raise NotImplementedError  # Your implementation here
+    beta = []
+    for i in range(n):
+        beta.append(r * w[i] % q)
 
 
 def encrypt_mh(message, public_key):
@@ -128,3 +204,8 @@ def decrypt_mh(message, private_key):
     """
     raise NotImplementedError  # Your implementation here
 
+
+print(encrypt_caesar("Info"))
+print(decrypt_caesar(encrypt_caesar("Info")))
+print(encrypt_vigenere("Info", "Math"))
+print(decrypt_vigenere(encrypt_vigenere("Info", "Math"), "Math"))
