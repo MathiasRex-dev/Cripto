@@ -131,21 +131,21 @@ def generate_private_key(n=8):
     w = []
     w.append(random.randint(2, 10))
     total = w[0]
-    for i in range(1,n - 1):
-        w.append(random(total + 1, 2 * total))
+    for i in range(1,n):
+        w.append(random.randint(total + 1, 2 * total))
         total += w[i]
     
     q = random.randint(total + 1, 2 * total)
     r = 2
     while True:
         r = random.randint(2, q - 1)
-        if math.gcd(r, q):
+        if math.gcd(r, q) == 1:
             break 
     
     return (w, q, r)
 
 
-def create_public_key(private_key):
+def create_public_key(private_key: tuple):
     """Create a public key corresponding to the given private key.
 
     To accomplish this, you only need to build and return `beta` as described in the handout.
@@ -159,10 +159,13 @@ def create_public_key(private_key):
 
     @return n-tuple public key
     """
+    w, q, r = private_key
+    n = len(w)
     beta = []
     for i in range(n):
         beta.append(r * w[i] % q)
-
+    
+    return beta
 
 def encrypt_mh(message, public_key):
     """Encrypt an outgoing message using a public key.
@@ -204,8 +207,7 @@ def decrypt_mh(message, private_key):
     """
     raise NotImplementedError  # Your implementation here
 
-
-print(encrypt_caesar("Info"))
-print(decrypt_caesar(encrypt_caesar("Info")))
-print(encrypt_vigenere("Info", "Math"))
-print(decrypt_vigenere(encrypt_vigenere("Info", "Math"), "Math"))
+priv_key = generate_private_key()
+pub_key = create_public_key(priv_key)
+print(priv_key)
+print(pub_key)
