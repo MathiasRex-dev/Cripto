@@ -185,8 +185,18 @@ def encrypt_mh(message, public_key):
 
     @return list of ints representing encrypted bytes
     """
-    raise NotImplementedError  # Your implementation here
+    enc_msg = []
+    
+    for a in message:
+        c = 0
+        bits = utils.byte_to_bits(a)
+        for i in range(len(bits)):
+            c += bits[i] * public_key[i]
+        enc_msg.append(c)
 
+    return enc_msg
+
+    
 def decrypt_mh(message, private_key):
     """Decrypt an incoming message using a private key
 
@@ -205,9 +215,19 @@ def decrypt_mh(message, private_key):
 
     @return bytearray or str of decrypted characters
     """
-    raise NotImplementedError  # Your implementation here
+    w, q, r = private_key
+    s = utils.modinv(r, q)
+    decripted_msg = ""
+    
+    for c in message:
+        c_ = (c * s) % q
+        bits = [0] * len(w)
 
-priv_key = generate_private_key()
-pub_key = create_public_key(priv_key)
-print(priv_key)
-print(pub_key)
+        for i in range(7, -1, -1):
+            if w[i] <= c_:
+                c_ -= w[i]
+                bits[i] = 1
+        decripted_msg += chr(utils.bits_to_byte(bits))
+
+    return decripted_msg
+
