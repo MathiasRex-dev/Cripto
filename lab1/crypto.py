@@ -238,14 +238,15 @@ def encrypt_scytale(plaintext, key):
     matr = [['' for _ in range(col)] for _ in range(row)]
 
     idx = 0
-    for c in range(col):
-        for r in range(row):
+    for r in range(row):
+        for c in range(col):
             if idx < len(plaintext):
                 matr[r][c] = plaintext[idx]
                 idx += 1
+
     ciphertext = ""
-    for r in range(row):
-        for c in range(col):
+    for c in range(col):
+        for r in range(row):
             if matr[r][c] != '':
                 ciphertext += matr[r][c]
     
