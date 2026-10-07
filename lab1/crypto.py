@@ -298,6 +298,10 @@ def encrypt_railfence(plaintext, key):
     return ciphertext
 
 def decrypt_railfence(ciphertext, key):
+    if key <= 1 or key >= len(ciphertext):
+        return ciphertext
+
+
     counts = [0 for _ in range(key)]
     count_idx = 0
     direction = 1 
@@ -306,7 +310,7 @@ def decrypt_railfence(ciphertext, key):
 
         if count_idx == key - 1:
             direction = -1
-        if count_idx == 0:
+        elif count_idx == 0:
             direction = 1 
 
         count_idx += direction
@@ -327,7 +331,7 @@ def decrypt_railfence(ciphertext, key):
 
         if rail_idx == key - 1:
             direction = -1
-        if rail_idx == 0:
+        elif rail_idx == 0:
             direction = 1
         rail_idx += direction
 
