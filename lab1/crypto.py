@@ -238,17 +238,17 @@ def encrypt_scytale(plaintext, key):
     matr = [['' for _ in range(col)] for _ in range(row)]
 
     idx = 0
-    for i in range(row):
-        for j in range(col):
+    for c in range(col):
+        for r in range(row):
             if idx < len(plaintext):
-                matr[i][j] = plaintext[idx]
+                matr[r][c] = plaintext[idx]
                 idx += 1
     ciphertext = ""
-    for i in range(col):
-        for j in range(row):
-            if matr[i][j] != '':
-                ciphertext += matr[j][i]
-
+    for r in range(row):
+        for c in range(col):
+            if matr[r][c] != '':
+                ciphertext += matr[r][c]
+    
     return ciphertext
 
 
@@ -259,19 +259,19 @@ def decrypt_scytale(ciphertext, key):
     matr = [['' for _ in range(col)] for _ in range(row)]
     
     idx = 0
-    for i in range(col):
-        for j in range(row):
-            if j == row - 1 and i >= col - empty_cells:
+    for c in range(col):
+        for r in range(row):
+            if r == row - 1 and c >= col - empty_cells:
                 continue
             if idx < len(ciphertext):
-                matr[j][i] = ciphertext[idx]
+                matr[r][c] = ciphertext[idx]
                 idx += 1
 
     plaintext = ""
-    for i in range(col):
-        for j in range(row):
-            if matr[j][i] != '':
-                plaintext += matr[j][i]
+    for r in range(row):
+        for c in range(col):
+            if matr[r][c] != '':
+                plaintext += matr[r][c]
     
     return plaintext
 
@@ -338,13 +338,6 @@ def decrypt_railfence(ciphertext, key):
     return plaintext
 
 
-
-
-
-
-
-
-
-
-
-
+txt = encrypt_railfence("kiskecelanyom", 4)
+print(txt)
+print(decrypt_railfence(txt, 4))
