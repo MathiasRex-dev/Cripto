@@ -231,3 +231,116 @@ def decrypt_mh(message, private_key):
 
     return decripted_msg
 
+
+def encrypt_scytale(plaintext, key):
+    col = key
+    row = math.ceil(len(plaintext) / key)
+    matr = [['' for _ in range(col)] for _ in range(row)]
+
+    idx = 0
+    for i in range(row):
+        for j in range(col):
+            if idx < len(plaintext):
+                matr[i][j] = plaintext[idx]
+                idx += 1
+    ciphertext = ""
+    for i in range(col):
+        for j in range(row):
+            if matr[i][j] != '':
+                ciphertext += matr[j][i]
+
+    return ciphertext
+
+
+def decrypt_scytale(ciphertext, key):
+    col = key
+    row = math.ceil(len(ciphertext) / key)
+    empty_cells = row * col - len(ciphertext)
+    matr = [['' for _ in range(col)] for _ in range(row)]
+    
+    idx = 0
+    for i in range(col):
+        for j in range(row):
+            if j == row - 1 and i >= col - empty_cells:
+                continue
+            if idx < len(ciphertext):
+                matr[j][i] = ciphertext[idx]
+                idx += 1
+
+    plaintext = ""
+    for i in range(col):
+        for j in range(row):
+            if matr[j][i] != '':
+                plaintext += matr[j][i]
+    
+    return plaintext
+
+
+def encrypt_railfence(plaintext, key):
+    if key <= 1:
+        return plaintext
+
+    rails = [[] for _ in range(key)]
+    rail_idx = 0
+    direction = 1 
+    for c in plaintext:
+        rails[rail_idx].append(c)
+        
+        if rail_idx == key - 1:
+            direction = -1
+        if rail_idx == 0:
+            direction = 1
+        
+        rail_idx += direction
+
+    ciphertext = "".join("".join(rail) for rail in rails)
+    
+    return ciphertext
+
+def decrypt_railfence(ciphertext, key):
+    counts = [0 for _ in range(key)]
+    count_idx = 0
+    direction = 1 
+    for c in ciphertext:
+        counts[count_idx] += 1 
+
+        if count_idx == key - 1:
+            direction = -1
+        if count_idx == 0:
+            direction = 1 
+
+        count_idx += direction
+
+    rails = [[] for _ in range(key)]
+    idx = 0
+    for count_idx in range(key):
+        for i in range(counts[count_idx]):
+            rails[count_idx].append(ciphertext[idx])
+            idx += 1 
+
+
+    plaintext = ""
+    rail_idx = 0
+    direction = 1 
+    for _ in ciphertext:
+        plaintext += rails[rail_idx].pop(0)
+
+        if rail_idx == key - 1:
+            direction = -1
+        if rail_idx == 0:
+            direction = 1
+        rail_idx += direction
+
+    return plaintext
+
+
+
+
+
+
+
+
+
+
+
+
