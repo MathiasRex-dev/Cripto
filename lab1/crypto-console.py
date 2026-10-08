@@ -15,6 +15,8 @@ from crypto import (encrypt_caesar, decrypt_caesar,
                     encrypt_mh, decrypt_mh, encrypt_scytale,
                     decrypt_scytale, encrypt_railfence, decrypt_railfence)
 
+from vigenere_codebreak import decrypt_vigenere_codebreaker
+
 
 #############################
 # GENERAL CONSOLE UTILITIES #
@@ -22,7 +24,7 @@ from crypto import (encrypt_caesar, decrypt_caesar,
 
 def get_tool():
     print("* Tool *")
-    return _get_selection("(C)aesar, (V)igenere, (M)erkle-Hellman, (S)cytale or (R)ailfence? ", "CVMSR")
+    return _get_selection("(C)aesar, (V)igenere, (M)erkle-Hellman, (S)cytale, (R)ailfence or (B)reak Vigenre? ", "CVMSRB")
 
 
 def get_action():
@@ -194,6 +196,23 @@ def run_railfence():
     output = (encrypt_railfence if encrypting else decrypt_railfence)(data, key)
     set_output(output)
 
+def run_vigenere_codebreaker():
+    print("* Vigenere Codebreaker *")
+    data = clean_vigenere(get_input(binary=False))
+    
+    # Szótár / lehetséges kulcsok beolvasása (pl. /usr/share/dict/words vagy teszt fájl)
+    try:
+        with open("/usr/share/dict/words", "r") as f:
+            possible_keys = set(clean_vigenere(line) for line in f if line.strip())
+    except FileNotFoundError:
+        print("Dictionary file not found! Using a fallback key list.")
+        possible_keys = ["LEMON", "SECRET", "KEY", "PYTHON"]
+
+    print("* Breaking Vigenere Cipher... *")
+    best_key, plaintext = decrypt_vigenere_codebreaker(data, possible_keys, possible_keys)
+    
+    print("Found Key: {}".format(best_key))
+    set_output(plaintext)
 
 def run_suite():
     """
@@ -211,7 +230,8 @@ def run_suite():
         'V': run_vigenere,       # Vigenere Cipher
         'M': run_merkle_hellman,  # Merkle-Hellman Knapsack Cryptosystem
         'S': run_scytale,
-        'R': run_railfence
+        'R': run_railfence,
+        'B': run_vigenere_codebreaker
     }
     commands[tool]()
 
