@@ -265,7 +265,7 @@ def decrypt_scytale(ciphertext, key):
             if r == row - 1 and c >= col - empty_cells:
                 continue
             if idx < len(ciphertext):
-                matr[r][c] = ciphertext[idx]
+                matr[c][r] = ciphertext[idx]
                 idx += 1
 
     plaintext = ""
@@ -337,8 +337,3 @@ def decrypt_railfence(ciphertext, key):
         rail_idx += direction
 
     return plaintext
-
-
-txt = encrypt_railfence("kiskecelanyom", 4)
-print(txt)
-print(decrypt_railfence(txt, 4))
