@@ -1,0 +1,4 @@
+/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/CMakeFiles/unit_tests.dir
+/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/CMakeFiles/test.dir
+/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/CMakeFiles/edit_cache.dir
+/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,192 @@
+{
+  "tests": 30,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "AllCipherCombinations\/CipherTest",
+      "tests": 30,
+      "testsuite": [
+        {
+          "name": "LargeDataEncryptDecrypt\/0",
+          "value_param": "(\"VIGENERE-BIN\", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/1",
+          "value_param": "(\"VIGENERE-BIN\", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/2",
+          "value_param": "(\"VIGENERE-BIN\", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/3",
+          "value_param": "(\"VIGENERE-BIN\", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/4",
+          "value_param": "(\"VIGENERE-BIN\", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/5",
+          "value_param": "(\"VIGENERE-BIN\", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/6",
+          "value_param": "(\"VIGENERE-BIN\", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/7",
+          "value_param": "(\"VIGENERE-BIN\", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/8",
+          "value_param": "(\"VIGENERE-BIN\", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/9",
+          "value_param": "(\"VIGENERE-BIN\", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/10",
+          "value_param": "(\"VIGENERE-BIN\", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/11",
+          "value_param": "(\"VIGENERE-BIN\", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/12",
+          "value_param": "(\"VIGENERE-BIN\", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/13",
+          "value_param": "(\"VIGENERE-BIN\", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/14",
+          "value_param": "(\"VIGENERE-BIN\", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/15",
+          "value_param": "(\"AES-256\", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/16",
+          "value_param": "(\"AES-256\", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/17",
+          "value_param": "(\"AES-256\", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/18",
+          "value_param": "(\"AES-256\", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/19",
+          "value_param": "(\"AES-256\", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/20",
+          "value_param": "(\"AES-256\", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/21",
+          "value_param": "(\"AES-256\", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/22",
+          "value_param": "(\"AES-256\", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/23",
+          "value_param": "(\"AES-256\", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/24",
+          "value_param": "(\"AES-256\", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/25",
+          "value_param": "(\"AES-256\", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/26",
+          "value_param": "(\"AES-256\", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/27",
+          "value_param": "(\"AES-256\", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/28",
+          "value_param": "(\"AES-256\", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        },
+        {
+          "name": "LargeDataEncryptDecrypt\/29",
+          "value_param": "(\"AES-256\", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)",
+          "file": "\/home\/mathiasrex-dev\/Documents\/Suli\/cripto\/lab2\/tests.cpp",
+          "line": 7
+        }
+      ]
+    }
+  ]
+}

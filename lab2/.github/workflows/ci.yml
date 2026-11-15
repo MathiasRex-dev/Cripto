@@ -1,0 +1,28 @@
+name: C++ Cipher Module CI
+
+on:
+  push:
+    branches: [ "main", "master" ]
+  pull_request:
+    branches: [ "main", "master" ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Install Dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y cmake g++ libssl-dev nlohmann-json3-dev libgtest-dev
+
+    - name: Configure CMake
+      run: cmake -B build -DCMAKE_BUILD_TYPE=Release
+
+    - name: Build
+      run: cmake --build build --config Release -j$(nproc)
+
+    - name: Run Tests (10+ Test Cases)
+      run: ctest --test-dir build --output-on-failure

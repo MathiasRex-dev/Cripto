@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/unit_tests.dir/link.d CMakeFiles/unit_tests.dir/tests.cpp.o -o unit_tests  /usr/lib/libgtest_main.so.1.18.0 /usr/lib/libcrypto.so /usr/lib/libgtest.so.1.18.0

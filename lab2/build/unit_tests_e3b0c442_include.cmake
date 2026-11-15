@@ -1,0 +1,5 @@
+if(EXISTS "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests_e3b0c442_tests.cmake")
+  include("/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests_e3b0c442_tests.cmake")
+else()
+  add_test(unit_tests_NOT_BUILT unit_tests_NOT_BUILT)
+endif()
