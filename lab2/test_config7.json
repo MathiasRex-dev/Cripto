@@ -1,0 +1,8 @@
+{
+  "blocksize": 16,
+  "cipher": "AES-192",
+  "key": "jnOw99oOZFLIEPMrgJB55WL46tJSLGt7",
+  "mode": "ECB",
+  "iv": "",
+  "padding": "ZERO"
+}

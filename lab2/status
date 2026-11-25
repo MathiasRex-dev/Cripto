@@ -1,0 +1,189 @@
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+[==========] Running 90 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 90 tests from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/0
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/0 (19 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/1
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/1 (11 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/2
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/2 (11 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/3
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/3 (13 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/4
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/4 (13 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/5
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/5 (14 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/6
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/6 (11 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/7
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/7 (11 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/8
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/8 (11 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/9
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/9 (11 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/10
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/10 (11 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/11
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/11 (11 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/12
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/12 (11 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/13
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/13 (11 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/14
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/14 (11 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/15
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/15 (40 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/16
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/16 (39 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/17
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/17 (41 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/18
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/18 (43 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/19
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/19 (44 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/20
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/20 (44 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/21
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/21 (40 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/22
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/22 (40 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/23
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/23 (42 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/24
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/24 (40 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/25
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/25 (40 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/26
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/26 (40 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/27
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/27 (40 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/28
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/28 (40 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/29
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/29 (39 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/30
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/30 (39 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/31
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/31 (39 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/32
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/32 (39 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/33
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/33 (44 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/34
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/34 (43 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/35
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/35 (43 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/36
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/36 (41 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/37
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/37 (40 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/38
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/38 (39 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/39
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/39 (39 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/40
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/40 (39 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/41
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/41 (39 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/42
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/42 (39 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/43
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/43 (39 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/44
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/44 (39 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/45
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/45 (39 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/46
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/46 (39 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/47
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/47 (39 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/48
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/48 (42 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/49
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/49 (43 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/50
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/50 (42 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/51
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/51 (39 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/52
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/52 (39 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/53
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/53 (38 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/54
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/54 (38 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/55
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/55 (38 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/56
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/56 (38 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/57
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/57 (38 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/58
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/58 (38 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/59
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/59 (38 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/60
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/60 (108 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/61
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/61 (108 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/62
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/62 (108 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/63
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/63 (116 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/64
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/64 (116 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/65
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/65 (115 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/66
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/66 (110 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/67
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/67 (110 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/68
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/68 (110 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/69
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/69 (110 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/70
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/70 (109 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/71
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/71 (110 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/72
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/72 (110 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/73
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/73 (109 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/74
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/74 (109 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/75
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/75 (198 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/76
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/76 (198 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/77
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/77 (197 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/78
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/78 (205 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/79
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/79 (204 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/80
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/80 (203 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/81
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/81 (196 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/82
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/82 (195 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/83
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/83 (198 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/84
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/84 (199 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/85
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/85 (197 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/86
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/86 (197 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/87
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/87 (198 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/88
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/88 (197 ms)
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/89
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/89 (198 ms)
+[----------] 90 tests from AllCipherCombinations/CipherTest (6669 ms total)
+
+[----------] Global test environment tear-down
+[==========] 90 tests from 1 test suite ran. (6671 ms total)
+[  PASSED  ] 90 tests.

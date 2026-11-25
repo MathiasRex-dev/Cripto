@@ -1,10 +1,10 @@
-Start testing: Nov 11 10:47 EET
+Start testing: Nov 25 09:19 EET
 ----------------------------------------------------------
-1/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)
-1/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)
+1/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)
+1/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/0" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -13,25 +13,25 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] Global test environment set-up.
 [----------] 1 test from AllCipherCombinations/CipherTest
 [ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/0
-[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/0 (33 ms)
-[----------] 1 test from AllCipherCombinations/CipherTest (33 ms total)
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/0 (34 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (34 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (33 ms total)
+[==========] 1 test from 1 test suite ran. (35 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.04 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-2/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)
-2/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)
+2/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)
+2/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/1" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -44,21 +44,21 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] 1 test from AllCipherCombinations/CipherTest (33 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (34 ms total)
+[==========] 1 test from 1 test suite ran. (35 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.04 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-3/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)
-3/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)
+3/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)
+3/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/2" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -71,21 +71,21 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] 1 test from AllCipherCombinations/CipherTest (34 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (34 ms total)
+[==========] 1 test from 1 test suite ran. (35 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.04 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-4/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)
-4/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)
+4/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)
+4/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/3" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -94,25 +94,25 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] Global test environment set-up.
 [----------] 1 test from AllCipherCombinations/CipherTest
 [ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/3
-[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/3 (42 ms)
-[----------] 1 test from AllCipherCombinations/CipherTest (42 ms total)
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/3 (39 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (40 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (42 ms total)
+[==========] 1 test from 1 test suite ran. (41 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.05 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-5/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)
-5/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)
+5/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)
+5/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/4" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -122,24 +122,24 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] 1 test from AllCipherCombinations/CipherTest
 [ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/4
 [       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/4 (40 ms)
-[----------] 1 test from AllCipherCombinations/CipherTest (40 ms total)
+[----------] 1 test from AllCipherCombinations/CipherTest (41 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (40 ms total)
+[==========] 1 test from 1 test suite ran. (42 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.05 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-6/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)
-6/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)
+6/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)
+6/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/5" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -152,21 +152,21 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] 1 test from AllCipherCombinations/CipherTest (40 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (40 ms total)
+[==========] 1 test from 1 test suite ran. (41 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.05 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-7/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)
-7/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)
+7/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)
+7/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/6" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -179,21 +179,21 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] 1 test from AllCipherCombinations/CipherTest (35 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (35 ms total)
+[==========] 1 test from 1 test suite ran. (37 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.04 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-8/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)
-8/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)
+8/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)
+8/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/7" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -202,8 +202,8 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] Global test environment set-up.
 [----------] 1 test from AllCipherCombinations/CipherTest
 [ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/7
-[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/7 (35 ms)
-[----------] 1 test from AllCipherCombinations/CipherTest (35 ms total)
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/7 (33 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (33 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (35 ms total)
@@ -212,15 +212,15 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 Test time =   0.04 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-9/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)
-9/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)
+9/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)
+9/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/8" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -229,25 +229,25 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] Global test environment set-up.
 [----------] 1 test from AllCipherCombinations/CipherTest
 [ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/8
-[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/8 (37 ms)
-[----------] 1 test from AllCipherCombinations/CipherTest (37 ms total)
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/8 (35 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (35 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (37 ms total)
+[==========] 1 test from 1 test suite ran. (36 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.05 sec
+Test time =   0.04 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-10/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)
-10/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)
+10/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)
+10/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/9" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -256,25 +256,25 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] Global test environment set-up.
 [----------] 1 test from AllCipherCombinations/CipherTest
 [ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/9
-[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/9 (36 ms)
-[----------] 1 test from AllCipherCombinations/CipherTest (36 ms total)
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/9 (33 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (33 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (36 ms total)
+[==========] 1 test from 1 test suite ran. (35 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.04 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-11/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)
-11/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)
+11/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)
+11/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/10" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -283,8 +283,8 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] Global test environment set-up.
 [----------] 1 test from AllCipherCombinations/CipherTest
 [ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/10
-[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/10 (35 ms)
-[----------] 1 test from AllCipherCombinations/CipherTest (35 ms total)
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/10 (34 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (34 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (35 ms total)
@@ -293,15 +293,15 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 Test time =   0.04 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-12/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)
-12/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)
+12/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)
+12/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/11" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -310,8 +310,8 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] Global test environment set-up.
 [----------] 1 test from AllCipherCombinations/CipherTest
 [ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/11
-[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/11 (35 ms)
-[----------] 1 test from AllCipherCombinations/CipherTest (35 ms total)
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/11 (33 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (33 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (35 ms total)
@@ -320,15 +320,15 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 Test time =   0.04 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-13/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)
-13/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)
+13/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)
+13/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/12" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -337,8 +337,8 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] Global test environment set-up.
 [----------] 1 test from AllCipherCombinations/CipherTest
 [ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/12
-[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/12 (35 ms)
-[----------] 1 test from AllCipherCombinations/CipherTest (35 ms total)
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/12 (33 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (33 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (35 ms total)
@@ -347,15 +347,15 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 Test time =   0.04 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-14/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)
-14/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)
+14/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)
+14/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/13" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -364,8 +364,8 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] Global test environment set-up.
 [----------] 1 test from AllCipherCombinations/CipherTest
 [ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/13
-[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/13 (35 ms)
-[----------] 1 test from AllCipherCombinations/CipherTest (35 ms total)
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/13 (33 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (33 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (35 ms total)
@@ -374,15 +374,15 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 Test time =   0.04 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-15/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)
-15/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)
+15/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)
+15/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/14" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -391,25 +391,25 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] Global test environment set-up.
 [----------] 1 test from AllCipherCombinations/CipherTest
 [ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/14
-[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/14 (35 ms)
-[----------] 1 test from AllCipherCombinations/CipherTest (35 ms total)
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/14 (33 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (33 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (36 ms total)
+[==========] 1 test from 1 test suite ran. (35 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.04 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("VIGENERE-BIN", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-16/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)
-16/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)
+16/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)
+16/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/15" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -418,25 +418,25 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] Global test environment set-up.
 [----------] 1 test from AllCipherCombinations/CipherTest
 [ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/15
-[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/15 (154 ms)
-[----------] 1 test from AllCipherCombinations/CipherTest (154 ms total)
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/15 (118 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (118 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (154 ms total)
+[==========] 1 test from 1 test suite ran. (119 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.16 sec
+Test time =   0.13 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-17/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)
-17/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)
+17/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)
+17/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/16" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -445,25 +445,25 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] Global test environment set-up.
 [----------] 1 test from AllCipherCombinations/CipherTest
 [ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/16
-[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/16 (152 ms)
-[----------] 1 test from AllCipherCombinations/CipherTest (152 ms total)
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/16 (123 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (123 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (152 ms total)
+[==========] 1 test from 1 test suite ran. (124 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.16 sec
+Test time =   0.13 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-18/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)
-18/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)
+18/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)
+18/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/17" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -472,25 +472,25 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] Global test environment set-up.
 [----------] 1 test from AllCipherCombinations/CipherTest
 [ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/17
-[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/17 (152 ms)
-[----------] 1 test from AllCipherCombinations/CipherTest (153 ms total)
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/17 (116 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (116 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (153 ms total)
+[==========] 1 test from 1 test suite ran. (118 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.16 sec
+Test time =   0.12 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-19/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)
-19/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)
+19/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)
+19/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/18" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -499,25 +499,25 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] Global test environment set-up.
 [----------] 1 test from AllCipherCombinations/CipherTest
 [ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/18
-[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/18 (160 ms)
-[----------] 1 test from AllCipherCombinations/CipherTest (160 ms total)
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/18 (128 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (128 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (160 ms total)
+[==========] 1 test from 1 test suite ran. (129 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.17 sec
+Test time =   0.14 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-20/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)
-20/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)
+20/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)
+20/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/19" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -526,25 +526,25 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] Global test environment set-up.
 [----------] 1 test from AllCipherCombinations/CipherTest
 [ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/19
-[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/19 (166 ms)
-[----------] 1 test from AllCipherCombinations/CipherTest (166 ms total)
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/19 (129 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (129 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (166 ms total)
+[==========] 1 test from 1 test suite ran. (130 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.17 sec
+Test time =   0.14 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-21/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)
-21/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)
+21/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)
+21/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/20" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -553,25 +553,25 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] Global test environment set-up.
 [----------] 1 test from AllCipherCombinations/CipherTest
 [ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/20
-[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/20 (165 ms)
-[----------] 1 test from AllCipherCombinations/CipherTest (165 ms total)
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/20 (126 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (126 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (165 ms total)
+[==========] 1 test from 1 test suite ran. (127 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.17 sec
+Test time =   0.13 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-22/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)
-22/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)
+22/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)
+22/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/21" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -580,25 +580,25 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] Global test environment set-up.
 [----------] 1 test from AllCipherCombinations/CipherTest
 [ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/21
-[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/21 (151 ms)
-[----------] 1 test from AllCipherCombinations/CipherTest (151 ms total)
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/21 (121 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (121 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (151 ms total)
+[==========] 1 test from 1 test suite ran. (123 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.16 sec
+Test time =   0.13 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-23/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)
-23/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)
+23/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)
+23/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/22" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -607,25 +607,25 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] Global test environment set-up.
 [----------] 1 test from AllCipherCombinations/CipherTest
 [ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/22
-[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/22 (151 ms)
-[----------] 1 test from AllCipherCombinations/CipherTest (151 ms total)
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/22 (119 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (119 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (151 ms total)
+[==========] 1 test from 1 test suite ran. (121 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.16 sec
+Test time =   0.13 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-24/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)
-24/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)
+24/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)
+24/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/23" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -634,25 +634,25 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] Global test environment set-up.
 [----------] 1 test from AllCipherCombinations/CipherTest
 [ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/23
-[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/23 (152 ms)
-[----------] 1 test from AllCipherCombinations/CipherTest (152 ms total)
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/23 (119 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (119 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (152 ms total)
+[==========] 1 test from 1 test suite ran. (121 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.16 sec
+Test time =   0.13 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-25/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)
-25/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)
+25/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)
+25/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/24" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -661,25 +661,25 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] Global test environment set-up.
 [----------] 1 test from AllCipherCombinations/CipherTest
 [ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/24
-[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/24 (153 ms)
-[----------] 1 test from AllCipherCombinations/CipherTest (153 ms total)
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/24 (118 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (118 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (153 ms total)
+[==========] 1 test from 1 test suite ran. (120 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.16 sec
+Test time =   0.13 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-26/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)
-26/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)
+26/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)
+26/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/25" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -688,25 +688,25 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] Global test environment set-up.
 [----------] 1 test from AllCipherCombinations/CipherTest
 [ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/25
-[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/25 (150 ms)
-[----------] 1 test from AllCipherCombinations/CipherTest (150 ms total)
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/25 (122 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (122 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (151 ms total)
+[==========] 1 test from 1 test suite ran. (124 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.16 sec
+Test time =   0.13 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-27/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)
-27/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)
+27/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)
+27/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/26" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -715,25 +715,25 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] Global test environment set-up.
 [----------] 1 test from AllCipherCombinations/CipherTest
 [ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/26
-[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/26 (149 ms)
-[----------] 1 test from AllCipherCombinations/CipherTest (149 ms total)
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/26 (117 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (117 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (149 ms total)
+[==========] 1 test from 1 test suite ran. (119 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.16 sec
+Test time =   0.13 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-28/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)
-28/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)
+28/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)
+28/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/27" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -742,25 +742,25 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] Global test environment set-up.
 [----------] 1 test from AllCipherCombinations/CipherTest
 [ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/27
-[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/27 (150 ms)
-[----------] 1 test from AllCipherCombinations/CipherTest (150 ms total)
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/27 (118 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (118 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (150 ms total)
+[==========] 1 test from 1 test suite ran. (120 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.16 sec
+Test time =   0.13 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-29/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)
-29/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)
+29/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)
+29/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/28" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -769,25 +769,25 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] Global test environment set-up.
 [----------] 1 test from AllCipherCombinations/CipherTest
 [ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/28
-[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/28 (152 ms)
-[----------] 1 test from AllCipherCombinations/CipherTest (152 ms total)
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/28 (119 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (119 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (153 ms total)
+[==========] 1 test from 1 test suite ran. (120 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.16 sec
+Test time =   0.13 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-30/30 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)
-30/30 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)
+30/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)
+30/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)
 Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/29" "--gtest_also_run_disabled_tests"
 Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
 Output:
 ----------------------------------------------------------
 Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
@@ -796,18 +796,1638 @@ Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecr
 [----------] Global test environment set-up.
 [----------] 1 test from AllCipherCombinations/CipherTest
 [ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/29
-[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/29 (150 ms)
-[----------] 1 test from AllCipherCombinations/CipherTest (150 ms total)
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/29 (118 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (118 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (150 ms total)
+[==========] 1 test from 1 test suite ran. (120 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.16 sec
+Test time =   0.13 sec
 ----------------------------------------------------------
 Test Passed.
-"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 11 10:47 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
 "AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-256", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Nov 11 10:47 EET
+31/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)
+31/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/30" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/30
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/30
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/30 (117 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (117 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (119 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)
+32/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/31" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/31
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/31
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/31 (117 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (117 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (118 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)
+33/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/32" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/32
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/32
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/32 (117 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (117 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (119 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)
+34/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/33" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/33
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/33
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/33 (124 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (124 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (126 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)
+35/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/34" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/34
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/34
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/34 (123 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (124 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (125 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)
+36/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/35" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/35
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/35
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/35 (126 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (126 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (128 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)
+37/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/36" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/36
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/36
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/36 (119 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (119 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (120 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)
+38/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/37" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/37
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/37
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/37 (117 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (117 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (119 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)
+39/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/38" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/38
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/38
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/38 (120 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (120 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (122 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)
+40/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/39" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/39
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/39
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/39 (116 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (116 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (118 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)
+41/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/40" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/40
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/40
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/40 (117 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (117 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (119 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)
+42/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/41" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/41
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/41
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/41 (116 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (116 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (117 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)
+43/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/42" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/42
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/42
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/42 (115 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (115 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (117 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+44/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)
+44/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/43" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/43
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/43
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/43 (115 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (115 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (116 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)
+45/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/44" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/44
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/44
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/44 (115 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (115 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (116 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-192", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)
+46/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/45" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/45
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/45
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/45 (114 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (114 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (116 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)
+47/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/46" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/46
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/46
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/46 (115 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (115 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (117 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)
+48/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/47" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/47
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/47
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/47 (117 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (117 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (119 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)
+49/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/48" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/48
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/48
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/48 (124 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (124 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (125 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)
+50/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/49" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/49
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/49
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/49 (123 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (123 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (124 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)
+51/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/50" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/50
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/50
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/50 (123 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (123 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (125 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)
+52/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/51" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/51
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/51
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/51 (118 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (119 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (120 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)
+53/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/52" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/52
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/52
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/52 (116 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (117 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (118 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+54/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)
+54/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/53" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/53
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/53
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/53 (118 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (118 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (120 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+55/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)
+55/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/54" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/54
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/54
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/54 (115 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (115 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (116 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+56/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)
+56/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/55" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/55
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/55
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/55 (114 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (114 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (116 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+57/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)
+57/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/56" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/56
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/56
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/56 (117 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (117 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (119 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+58/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)
+58/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/57" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/57
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/57
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/57 (116 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (116 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (118 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+59/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)
+59/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/58" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/58
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/58
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/58 (116 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (116 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (117 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+60/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)
+60/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/59" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/59
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/59
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/59 (115 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (116 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (117 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("AES-128", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+61/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)
+61/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/60" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/60
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/60
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/60 (315 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (315 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (317 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.32 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+62/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)
+62/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/61" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/61
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/61
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/61 (315 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (315 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (317 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.32 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+63/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)
+63/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/62" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/62
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/62
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/62 (325 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (325 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (326 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.33 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+64/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)
+64/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/63" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/63
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/63
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/63 (337 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (337 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (338 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.34 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+65/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)
+65/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/64" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/64
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/64
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/64 (337 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (337 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (339 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.35 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+66/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)
+66/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/65" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/65
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/65
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/65 (334 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (334 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (335 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.34 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+67/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)
+67/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/66" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/66
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/66
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/66 (326 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (326 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (327 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.33 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+68/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)
+68/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/67" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/67
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/67
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/67 (324 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (324 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (326 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.33 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+69/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)
+69/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/68" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/68
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/68
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/68 (317 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (317 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (319 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.33 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+70/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)
+70/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/69" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/69
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/69
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/69 (316 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (316 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (317 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.32 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+71/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)
+71/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/70" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/70
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/70
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/70 (319 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (319 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (320 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.33 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+72/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)
+72/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/71" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/71
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/71
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/71 (320 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (320 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (322 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.33 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+73/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)
+73/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/72" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/72
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/72
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/72 (318 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (318 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (319 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.33 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+74/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)
+74/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/73" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/73
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/73
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/73 (319 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (319 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (321 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.33 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+75/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)
+75/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/74" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/74
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/74
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/74 (317 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (317 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (319 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.33 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("DES", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+76/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)
+76/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/75" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/75
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/75
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/75 (561 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (561 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (563 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.57 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <00-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+77/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)
+77/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/76" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/76
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/76
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/76 (571 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (571 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (572 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.58 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <00-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+78/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)
+78/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/77" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/77
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/77
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/77 (561 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (562 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (563 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.57 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <00-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+79/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)
+79/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/78" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/78
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/78
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/78 (584 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (584 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (586 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.59 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <01-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+80/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)
+80/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/79" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/79
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/79
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/79 (587 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (587 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (589 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.60 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <01-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+81/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)
+81/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/80" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/80
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/80
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/80 (594 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (594 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (596 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.60 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <01-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+82/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)
+82/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/81" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/81
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/81
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/81 (568 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (568 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (569 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.58 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <02-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+83/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)
+83/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/82" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/82
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/82
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/82 (575 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (575 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (577 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.58 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <02-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+84/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)
+84/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/83" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/83
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/83
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/83 (569 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (569 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (570 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.58 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <02-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+85/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)
+85/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/84" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/84
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/84
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/84 (570 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (570 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (572 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.58 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <03-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+86/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)
+86/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/85" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/85
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/85
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/85 (568 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (568 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (569 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.58 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <03-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+87/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)
+87/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/86" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/86
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/86
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/86 (567 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (567 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (569 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.58 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <03-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+88/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)
+88/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/87" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/87
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/87
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/87 (564 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (564 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (566 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.57 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <04-00 00-00>, 4-byte object <00-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+89/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)
+89/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/88" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/88
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/88
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/88 (572 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (572 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (573 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.58 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <04-00 00-00>, 4-byte object <01-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+90/90 Testing: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)
+90/90 Test: AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)
+Command: "/home/mathiasrex-dev/Documents/Suli/cripto/lab2/build/unit_tests" "--gtest_filter=AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/89" "--gtest_also_run_disabled_tests"
+Directory: /home/mathiasrex-dev/Documents/Suli/cripto/lab2/build
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)" start time: Nov 25 09:19 EET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.18.0/googletest/src/gtest_main.cc
+Note: Google Test filter = AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/89
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllCipherCombinations/CipherTest
+[ RUN      ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/89
+[       OK ] AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/89 (566 ms)
+[----------] 1 test from AllCipherCombinations/CipherTest (566 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (567 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.57 sec
+----------------------------------------------------------
+Test Passed.
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)" end time: Nov 25 09:19 EET
+"AllCipherCombinations/CipherTest.LargeDataEncryptDecrypt/("3DES", 4-byte object <04-00 00-00>, 4-byte object <02-00 00-00>)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 25 09:19 EET

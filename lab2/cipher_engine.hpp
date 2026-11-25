@@ -1,5 +1,6 @@
 #pragma once
 
+#include <cstddef>
 #include <vector>
 #include <string>
 #include <memory>
@@ -85,6 +86,7 @@ public:
         EVP_CIPHER_CTX* ctx = EVP_CIPHER_CTX_new();
         EVP_EncryptInit_ex(ctx, evp_cipher, nullptr, key.data(), nullptr);
         EVP_CIPHER_CTX_set_padding(ctx, 0);
+        EVP
         int outlen = 0;
         EVP_EncryptUpdate(ctx, out, &outlen, in, static_cast<int>(b_size));
         EVP_CIPHER_CTX_free(ctx);
